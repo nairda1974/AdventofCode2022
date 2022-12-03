@@ -11,7 +11,7 @@ def resultado( rv, r):
     elif r == 'Y' and rv == 'B':
         result = 3
     elif r == 'Y' and rv == 'C':
-        resultado = 0
+        result = 0
     elif r == 'Z' and rv == 'A':
         result = 0
     elif r == 'Z' and rv == 'B':
